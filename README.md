@@ -1,4 +1,4 @@
 # GatoInstall
 ```
-curl -s -k -L -O https://is.gd/gato_install
+curl -s -k -L -O https://raw.githubusercontent.com/duyhungdev/GatoInstall/main/Install%20client.bat
 ```
