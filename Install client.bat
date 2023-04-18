@@ -29,5 +29,5 @@ del GatoclientResourceSwapper.zip
 echo OK!
 echo -
 echo "cai dat thanh cong!"
-move GatoclientResourceSwapper %USERPROFILE%
-move Gatoclient-Remastered %username%/Documents
+move GatoclientResourceSwapper %USERPROFILE%\Documents
+move Gatoclient-Remastered %appdata%
