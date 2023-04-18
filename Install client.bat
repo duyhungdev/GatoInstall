@@ -28,6 +28,8 @@ tar -xf GatoclientResourceSwapper.zip
 del GatoclientResourceSwapper.zip
 echo OK!
 echo -
-echo "cai dat thanh cong!"
 move GatoclientResourceSwapper %USERPROFILE%\Documents
 move Gatoclient-Remastered %appdata%
+move GatoClient.exe %USERPROFILE%\Desktop
+echo cai dat thanh cong!
+echo Client da dc chuyen den desktop cua ban!
